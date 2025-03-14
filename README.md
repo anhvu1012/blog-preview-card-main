@@ -49,4 +49,4 @@ I learned how to use semantic HTML but I still need to familiar myself with it.
 
 ## Author
 
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/anhvu1012)
+- Frontend Mentor - [@anhvu1012](https://www.frontendmentor.io/profile/anhvu1012)
