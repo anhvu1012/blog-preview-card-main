@@ -62,6 +62,11 @@ body {
 .title {
   font-weight: 800;
   font-size: 1.2em;
+  cursor: pointer;
+}
+
+.title:hover {
+  color: var(--yellow);
 }
 
 .type,
